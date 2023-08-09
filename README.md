@@ -14,6 +14,7 @@ TECH STACKs:
  - HTML
  - CSS
  - JavaScript
+ - Typescript
  - React.JS
  - Next.JS
  - TailwindCSS

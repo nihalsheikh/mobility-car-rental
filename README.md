@@ -1,9 +1,9 @@
 # `🚗Mobility: A Car Rental Website`
 _**This website is made with the latest REACT.JS and NEXT.JS Application**_
 
-![Mobility](https://github.com/nihalsheikh/mobility-car-rental/assets/81211134/0b28c93e-c67f-4ac0-afc6-73d033525890)
+![Mobility](https://github.com/nihalsheikh/mobility-car-rental/assets/81211134/e14d1144-642d-4be9-bbfe-b38a988afba3)
 
-##Visit the website here: `https://mobility-car-rental-utiu.vercel.app/`
+## Visit the website here: `https://mobility-car-rental-utiu.vercel.app/`
 
 <br>
 
